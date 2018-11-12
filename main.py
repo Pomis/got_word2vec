@@ -42,4 +42,6 @@ GOT_SENTENCE_WORDS = parse_sentence_words(input_file_names)
 model = Word2Vec(GOT_SENTENCE_WORDS, size=128, window=3, min_count=5, workers=4)
 model.wv.save_word2vec_format("got_word2vec.txt", binary=False)
 
-print model.most_similar('stark', topn=10)
+i = model.wv.index2word.index("stark")
+d = model.wv.index2word.index("king")
+print model.wv.vectors[i] - model.wv.vectors[d]
