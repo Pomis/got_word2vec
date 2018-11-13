@@ -46,22 +46,32 @@ def vocab_filter(words, word):
     return list(filter(lambda (k, v): v != word, words))
 
 
+def define_lastname():
+    firstname = model.wv.index2word.index("jaime")
+    lastname = model.wv.index2word.index("lannister")
+    name_rel = model.wv.vectors[firstname] - model.wv.vectors[lastname]
+    firstname2 = model.wv.index2word.index("sansa")
+    lastname2 = model.wv.vectors[firstname2] - name_rel
+    res = model.wv.similar_by_vector(lastname2, 10)
+    print res
+
+
 model = Word2Vec(GOT_SENTENCE_WORDS, size=64, window=3, min_count=5, workers=4)
 model.wv.save_word2vec_format("got_word2vec.txt", binary=False)
 
 sword = model.most_similar('sword', topn=10)
+print sword
 print model.doesnt_match("jon robb ramsay arya sansa".split(' '))
 
 capital = model.wv.index2word.index("riverrun")
 county = model.wv.index2word.index("riverlands")
-print model.wv.vectors[county]
 name_rel = model.wv.vectors[capital] - model.wv.vectors[county]
-capital2 = model.wv.index2word.index("winterfell")
+capital2 = model.wv.index2word.index("sunspear")
 test = model.wv.vectors[capital2] - name_rel
-print test
-res = model.wv.similar_by_vector(test, 10), "winterfell"
+res = model.wv.similar_by_vector(test, 10), "sunspear"
 print res
 
+define_lastname()
 # X = model[model.wv.vocab]
 # pca = PCA(n_components=2)
 # result = pca.fit_transform(X)
@@ -80,3 +90,5 @@ print res
 #                 model.wv.vectors[model.wv.index2word.index(word[0])][1],
 #                 color='red')
 # pyplot.show()
+
+
