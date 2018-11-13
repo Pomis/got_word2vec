@@ -1,0 +1,429 @@
+Homepage
+In a State of Migration
+Go to the profile of Lyman Stone
+Lyman Stone
+Global cotton economist. Migration blogger. Proud Kentuckian. Advisor at Demographic Intelligence. Senior Contributor at The Federalist.
+Jun 29, 2016
+
+It doesn’t hold water.
+Westeros is Poorly Designed
+Bring It.
+UPDATE 1: You found me, Internet! It’s great to have you on my blog! Boy, Game of Thrones really has an SEO cachet that demographic analysis does not usually command. So, a few notes. 1. I read all comments, reply as I am able. 2. Yes, that means you too, Reddit and MetaFilter commenters. 3. I’ve answered some common critiques here. 4. If you like this level of nerdiness, I do it regularly analyzing actual historic demographics on my Podcast. Check it out!
+
+UPDATE 2: Also! By popular demand from my fellow uber-nerds, I’ve written up my thoughts on plausible Medieval population geography. I invite comment and critique of these estimates, and will revise them as appropriate.
+
+UPDATE 3: Some folks over at Reddit got into it recently about the size of Westeros, and this map started circulating, and then I was looped into it and got asked if it was plausible. Answer: yes, I think this is probably a pretty plausible map of the known parts of Planetos:
+
+
+Update 4: I’ve written a more recent piece discussing the possibility of an industrial revolution in Planetos, why it may/may not happen, and where it will happen if it does.
+
+Aside from being a migration nerd, I’m also a general-purpose nerd nerd, and a hobbyist world-builder. Yes, hobbyist world-building is a thing. But because I’m both kinds of nerd here, I’m the guy who reads Lord of the Rings and is perpetually bothered by the ridiculous economic models being presented. Like, really? Everything between the Shire and Rohan is depopulated save for a few ruins here and there? Did the land just up and stop yielding harvests or something? Sure. Okay. That’s some plausible economic geography.
+
+But in most cases, the obvious demographic and economic illiteracy of an author is totally forgivable because they’re not making any claims to realism. I don’t trouble over the absurdly small scale of warfare in Star Wars compared to the size of the galactic population and economy because, um, if I wanted realism I wouldn’t be watching Star Wars.
+
+There is an exception to my forgiveness: Game of Thrones, or, if you prefer, A Song of Ice and Fire. This setting is often held up for its “gritty realism.” Now of course there is magic at work here; you don’t get dragons and a gazillion-foot-tall wall of ice without some kind of breach of realism. And I’m fine with all of that.
+
+But what I’m not fine with is the ridiculous demographic illiteracy of Westeros.
+So I’m now gonna play party-pooper on Westeros. I exclude Essos because (1) there’s way less available information and (2) such information as does exist indicates if anything an even more preposterously unbelievable setting.
+
+How Big Is Westeros?
+A Moderate Continent
+Here are three visual references I found for the size of Westeros:
+
+
+
+
+Left, middle, right.
+In case you’re wondering, no, those pictures do not all indicate the same sized continent.
+
+I hasten to add, of course, that when I say “Westeros” henceforth, I really mean the Seven Kingdoms. I won’t get into anything Beyond The Wall.
+
+Okay then: Westeros is pretty big. George RR Martin (henceforth GRRM) has compared Westeros to South America in size. Looking at the map above, it’s clearly smaller in land area than the European Union, though not much smaller.
+
+But this is weird. South America is about 6.9 million square miles. The European Union is about 1.7 million square miles. So we have a very big problem already, the author doesn’t seem to have any idea how large his world is. Whoopsie. Turns out, some valiant readers have come up with an estimate of about 3.6 million square miles.
+
+I’ll use 3.6 million square miles as my baseline estimate, but will also calibrate all major results with a 1.6 million square mile figure, and a 6.9 million square mile figure.
+
+It is important that we begin with the size of Westeros! First of all, this should be one of the easier things to get a handle on since it (1) is fixed, (2) is often directly or indirectly referenced in the book and show due to character travels, (3) is often presented in maps. Of course, we’re also told that the maps aren’t strictly accurate and really represent Westerosi impressions of area, and the characters (books and show) do seem to have an amazing ability to disregard the physical laws of travel. But nonetheless, these geographic constraints remain much more fixed and determinable than direct population estimates.
+
+How Big Are Armies?
+Actually, It Doesn’t Matter
+Game of Thrones/A Song of Ice and Fire nerds (henceforth just “Game of Thrones” or “GoT”) obsess about military mobilization rates. On its face value, this makes sense. GRRM gives us lots of information about army sizes. We routinely get figures referring to thousands of soldiers, and there seems like a real concern that we know who has more men or less men. Fans then take these figures, apply a reasonable “mobilization rate,” and extrapolate to a population. Here’s an example.
+
+This method, however, is bullcrap. There are two major reasons why the “start from armies” approach will systematically mislead readers:
+
+Military Mobilization Varies Widely- Some very silly readers assert a 0.5%-1% military mobilization rate is appropriate because early-modern France only fielded 1–3% as its army, so Medieval France should be lower. This is silly. Medieval armies are not standing forces. You can field a vastly larger temporary force than a permanent force, especially if it’s a temporary and nonprofessional force. There are some references in the book and show, but it seems clear that many of the fighters in GoT armies are not full-time professional soldiers. In other words, we should expect very large annual, seasonal, and event-based variation in mobilization rates. It’s not unreasonable to think a city under siege could have a 10–20% mobilization rate. It’s also not unreasonable to think that many polities would only be able to field 0.2% or 0.3% of their population for harvest-season offensive warfare in an unpopular war. So to extrapolate population from army size, you need a vast amount of information about cultural norms, agriculture, offense/defense balance, professionalization of armies, etc. We don’t have that information.
+GRRM Messed Up His Army Sizes- Westeros is allegedly based on Medieval Europe. You wouldn’t know it from the army sizes. We’ve seen or heard about dozens of battles with 20,000, 30,000, 40,000, or more combatants, sometimes that many on each side. For comparison, the historically decisive Battle of Agincourt probably had under 30,000 soldiers. The Battle of Hastings had 25,000 at most. The incredibly vast Battle of Tours, where Charles Martel turned back the Arab advance, may have had 60,000 combatants. But crucially: these battles were decades or hundreds of years apart, rarely involving the same armies. The Battle of Yarmouk, after which the Caliphate siezed the entire Byzantine East, had just 50,000 fighters or so, with the result that the Caliphate conquered the entire region. Crucially, it should be noted that contemporaries gave much higher numbers: the Byzantines were routinely asserted to be fielding 100,000 men, while Muslims were depicted as leading hundreds of thousands. Conveniently, the sum total of GRRM’s descriptions of armies would suggest that Westeros can field between 200,000 and 650,000 soldiers, depending on conditions. Those numbers are almost certainly too large, with too robust an ability to recover losses. Medieval armies were small, except in cases where they were extremely professionalized, like the Byzantine armies, or Charles Martel’s Frankish army. Holding a Medieval army together was very hard, as was supplying it. The frequency with which there are large armies in Westeros is just ridiculous. The most reasonable explanation is that GRRM is an unreliable narrator, as he is for land area: these armies probably are not as big as he claims in many cases, and losses probably are not as steep.
+All this to say, we should not try to extrapolate total population from the size of armies during a time of crisis and volatility, especially given that those army size numbers seem unreliable.
+
+How Big Are the Cities?
+Smaller Than People Think
+King’s Landing does not have 500,000 residents. GRRM has stated that the city is larger than Medieval London or Paris, but smaller than Constantinople or ancient Rome. The GoT wiki suggests Medieval Constantinople had a million residents.
+
+To which I say: buuuuuuuuuuulllllsh*******t. Its actual population was almost certainly never above 400,000 after the 700s, more frequently around 200,000. The million-resident estimates are bogus as can be, or else must reflect only unique circumstances like “all of Thrace fled behind the walls during a siege.”
+
+Meanwhile, medieval London had maximum 100,000 residents, but 50,000 is more likely. Paris had maximum 300,000. In other words, GRRM seems to have a loose grasp at best of the size of Medieval urban populations, but, crucially, none of his figures give a plausible reason to think King’s Landing has 500,000 residents (statements of characters in the book be darned!).
+
+Rule of thumb, all your city population ideas, chop’em in half. Never trust pre-modern population estimates! They’re always always wrong, and always inflated! Unless you have a list of names and addresses, don’t trust it! And recall that GRRM is a consciously unreliable narrator, and his characters are highly motivated.
+
+So from here, we can make some guesses. Most estimates put King’s Landing at 500,000, Oldtown just below it (say 450,000), Lannisport below that (300,000), then Gulltown (50,000), then White Harbor (40,000). Let’s chop that in half: so instead of 1,340,000 in our top 5 cities, we’ve now got 670,000 in our Top 5 Cities.
+
+Now let’s assume other towns have that much population again. This is reasonable, as in most societies the number of smaller towns and cities is much greater than the number of larger towns and cities. So probably our total urban population is 1–1.5 million.
+
+Now we can pick an urbanization rate. Probably a high-end guess would be similar to the Byzantine Empire or Italy, so about 10–15%. A low-end guess would be more like northern and western Europe, so 3–6%. But while GRRM says Westeros is like Western Europe, this major urban cluster with a centralized Imperial-style monarchy would seem more Byzantine.
+
+If we assume that, despite remarkably vast urban centers, Westeros is the most rural part of Europe, then we get a total population of about 42 million people. On the other hand, if we assume (as I think more plausible) that Westeros is more like the more urbanized parts of Europe, then we get a total population of just 11 million.
+
+So based on some simple math from the size of urban centers, the population of Westeros ranges from 11 million to 42 million people.
+
+But we can do better than that.
+
+How Dense is Westeros?
+The Great Debate of Medieval Demography
+Everybody who does any medieval demography has seen the “Medieval Demographics Made Easy” website. It’s a neat resource. Unfortunately, it may be overestimating the density of Medieval populations.
+
+For example, that site suggests that a realm with horribly bad climate and a Mad King (so, Westeros) should have about 30 people per square mile. That gives us a range of 48 million to 207 million Westerosians, depending on the size of the continent. If it’s EU-sized, then this allegedly “very low density” gives us 48 million people, which corresponds neatly to my “low urbanization” estimate. But if the continent actually is as big as most fans estimate (3.6 million square miles), then we get 108 million residents of Westeros. And if it’s as big as GRRM estimates, we get 207 million residents!
+
+These numbers of crazy. The modern population of South America is just 380 million people. And that’s with numerous cities that have tens of millions of people. Now if we compare to the European Union with 500 million residents, the 48 million sounds fairly plausible: Westeros might well have 1/10th the density of modern Europe.
+
+Buuuuut. Wait a second. Maybe the Medieval Demographics Made Easy missed something. Maybe densities can go lower.
+
+Yes, densities can go lower, way lower. It turns out, the Byzantine Empire, one of the most urbanized parts of Europe, had typical population densities of between 18 and 25 people per square mile. How ‘bout dem apples.
+
+If we use 20 people per square mile as our estimate, then the EU-area estimate yields 32 million people, fan-calculations yield 72 million, and GRRM’s South America comment yields 138 million people.
+
+But, to reiterate, we are bounded by our urbanization-population estimates: a population estimate over 54 million is going to imply either (1) we believe implausible and contradictory things about the size of medieval cities or (2) we believe that Westeros is substantially more rural than Medieval Europe, despite having much larger cities.
+
+And this is where you hit your problem.
+
+What is Westeros Really Like?
+GRRM Wants Too Many Things — So Do His Fans
+If the Seven Kingdoms are Medieval Europe, then their degree of urbanization is comically overblown. On the other hand, if they’re as urban as we are to believe, then it’s extremely unlikely that we’re looking at a truly “Medieval” society. Consider this: if the urban population is what GRRM seems to indicate (probably about 2–2.5 urban and town dwellers total), but urbanization rates are near western Medieval levels, then the Seven Kingdoms likely have 48 million residents… which is just about half the Fan-Area-Estimate-With-Higher-Density population figure of 108 million.
+
+But if that’s true, we have another problem. We’ve got 100 million people in an area the size of the United States…and there are basically just 4 ethnicities. Here’s one fan’s map of Westerosi ethnicity:
+
+
+Source.
+Green is the First Men, red is the Andals, blue the Rhoynar, and yellow the Valyrians. Now it should be noted, there’s debate about whether those southern First Men are actually First Men, or some other group. So maybe we’ve got 5 ethnicities.
+
+That’s ridiculous. Let me say it again: that’s ridiculous. It is not reasonable, nay, it is not even hypothetically possible, in an age before mass communication and easy travel, that groups across such vast geographic distances would have so little genetic and linguistic differences. IT IS NOT POSSIBLE. Why? Simple. In pre-modern societies, most people didn’t migrate. Ever. Most people didn’t really ever even travel, unless they were recruited for war. In other words, genetics traits tended to be geographically more concentrated than they are today. Likewise, linguistic traits were tightly concentrated.
+
+Now, here’s a map of modern European languages, in an area smaller than the fan-preferred estimate of Westeros’ size:
+
+
+Whoops! Tons of different language groups! And that map is clearly super-simplified. It excludes many minority modern languages. And it turns out, language was even more diverse back before we had modern mass communication. Remember all of Shakespeare’s weird spellings? Yeah, pronunciation was weird too! “French” and “German” and “Italian” did not exist as they do today.
+
+So here’s a map of local languages in Iberia and France:
+
+
+Source.
+Huzzah! In an area the size of Dorne, we have at least 10 major dialect groups from at least 2 totally different language families, and literally dozens of local dialects. And keep in mind, the different color shades represent languages sufficiently different that immediate inter-intelligibility was unlikely. That is to say, a person from southern France had to learn northern French. Sure, not as hard as learning Saxon, but not just a question of learning the accent and a few slang words.
+
+All of that to say, Westeros is incredibly un-diverse. Because Westeros isn’t a continent. Westeros is Britain, blown up on giant scale.
+
+And that is the key problem: GRRM and his fans want a boundless British Medieval Fantasyland. Essos is segregated from Westeros by a sea that is geographically narrow, but culturally vast; the plot, characters, cultures, language, all of it varies across this channel far more than any reasonable historical process would seem to justify, with Essos incredibly diverse, and Westeros incredibly not.
+
+Why is this? Simple: world-builders tend to build mirrors of their own minds in one way or another. For GRRM, this appears to mean exploring an undiverse world killing each other while a looming threat of external diversity rises up to destroy the unsuspecting white people. Whoops. For all the climate-change analogies, “immigrants will kill us all” is a way easier explanation of the twin threats beyond the wall and across the Narrow Sea.
+
+Why Diversity Matters for World-Building
+Westerosi Political Conflict Is Far Too Simple
+GoT is often held up as having very complicated or intricate political intrigue. This is very silly. We’re dealing with a very homogenous world with few major threats. How can I say this? Simple: it’s far too easy to control.
+
+Consider the Targaryen dynasty. They lasted 283 years on the Iron Throne, with 17 rules, for an average of 17 years of reign per ruler. That is incredibly implausible, even with fire-breathing dragons. Consider the Roman Empire, a similarly vast political entity: no dynasty ever lasted more than 15 rulers, and no direct descendant dynasty lasted more than eight rulers. The longest-lived dynasty were either the Julio-Claudians or the Nerva-Antonines, both of whom used adoption extensively, neither of whom lasted even 100 years. But their average reigns were 19 and 14 years, so that makes 17-year-average sound reasonable.
+
+Except that the average reign length across all Roman rulers who lasted at least 1 year was… about 9 years.
+
+Consider the Byzantine Empire. Of the 5 major dynasties that lasted more than 50 years, just 2 lasted more than 100 years. Now the Byzantine Emperors were more long-lived among the dynasties I counted: about 12-year average reigns, but, as I did for the Romans, I exclude the frequent crises where they burn through multiple emperors in a short span of time, or have non-dynastic emperors.
+
+Or consider a group very like the Targaryens: the Mongols. Like the Targaryens, they were an ethnically foreign conquest-dynasty arriving with uniquely powerful weapons that, after they acculturated to the new place, eventually decayed. The united Mongol Empire lasted for 4 rulers realistically, 6 in nominal terms. Individual Khanates lasted longer, but the point is that in realistic political struggles, long dynasties are incredibly rare. The founding dynasty of the Holy Roman Empire lasted just 6 rulers, and there was only one double-digit dynasty ever.
+
+We see the same thing with the rise of Robert Baratheon. What, he can just beat the Targaryens and that makes him King? Psh, yeah right. That’s incredibly silly. That’s not how feudalism works. In the truly dynamic setting of a truly Medieval society spanning an entire continent, the end of the Targaryens would be the end of a united Westeros.
+
+Now real fans may say, “But that is what we’re seeing! The end of a united Westeros!” maybe, but it makes little sense that it came after the death of Robert Baratheon, instead of after the end of the Targaryens monarchy.
+
+Make Westeros Realistic (Again?)
+Some Proposed Parameters
+Now let’s do an “If I had done it” style thing. It’s easy to criticize, harder to solve. So let’s do some solving.
+
+Here are our constraints to maintain realism:
+
+Large settings must have increasing amounts of diversity
+Urban community sizes must be within plausible boundaries
+Exceptionally large urban communities should not, in general, be accompanied by very low overall urbanization
+Densities, however, can plausibly be anywhere from 20–40 people per square mile
+Let’s try and fill in these parameters.
+
+Diversity- Very low. This implies a small setting.
+Urban communities- Larger than in historic Europe.
+Urbanization- No direct estimate. But given #2, presumably fairly high.
+Density- No direct estimate, but outside of the North, we do seem to have a pretty darn densely settled continent.
+So let’s get some estimates:
+
+2. Urban Population- 1.25 million
+
+3. Urbanization- 6%
+
+4. Density- 30 people per square mile
+
+The implied land area of Westeros is… 700,000 square miles.
+
+Whoops!
+
+But, hold on. As silly as that sounds, it would solve some other problems. For one thing, we’d be able to explain why there’s so little diversity: Westeros isn’t even close to as large as has previously been asserted.
+
+We can also explain the unusual dynastic length! A key reason for short-lived dynasty is that diffuse populations are hard to control, and large empires enable frontier commanders to create political constituencies to advance their own rulership. But if Westeros is much smaller than we estimated, if in fact the whole continent is only about the size of the Byzantine Empire, then the stability of the Targaryens is easier to explain. And lest you think, “But that’s too small for the complexity of intrigue!” recall that, hello, byzantine as an adjective is actually synonymous with clever intrigue.
+
+Now, this estimate does totally disregard the physical distances outlined in the text, and categorically eliminates the possibility of GRRM as a reliable source about his own setting. But on that note, let’s, for a moment, see what happens if we assume Westeros really is the size of South America. And, after that, I will finally walk you through a systematic process to estimate the population of Westeros.
+
+Westeros At Face Value
+It’s Just Bonkers
+Recall that we estimated that, at 30 people were square mile, a South America sized continent would have 207 million people. That’s a lot of people. For reference, most scholars estimate total global population in 1000 AD at between 250 and 350 million people. So there’s that. Westeros would include nearly as many people as all of Earth did at a comparable time.
+
+Now think about cities. Say GRRM’s figures are right, and King’s Landing has 500,000. Our top 5 cities get us to about 1.4 million people. Double it to 2.8 to account for the numerous other cities and towns. That yields 2.8/207, for about 1.4% urbanization, a very low rate.
+
+How low? Well, I regard these estimates as a little bit high, but this paper would suggest that urbanization rates were at least 9% in Europe as of 1300. Within Europe, rates varied from 3.5% to 14%. But the point is that 1.4% urbanization rates would imply that Westeros is some kind of Asiatic steppe-land, not a temperate, western European climate.
+
+So to get to a plausible urbanization rate of, say, 5%, we have to change Something. First of all, we could lower the total population density, though to be clear it’s a bit odd to have very low population density alongside large urban centers. If we drop density to the very low rate of 15 people per square mile, total population falls to just 104 million, which makes urbanization about 2.8%.
+
+But that’s still too low! Even with a very sparsely populated countryside now, we still have too little urbanization. So we have to buff the urban population. Instead of being 2.8 million, we need it to be about 5 million city-dwellers.
+
+But where are all these city dwellers?
+
+The paper that I linked finds, in 1300, about 210 cities of over 10,000 people throughout Europe (which, I remind you, is a smaller area that GRRM’s South-America-sized Westeros). I only count about 135 marked population centers of any size on this map. Which means that a bigger urban population seems incredibly unlikely.
+
+Which means that density must go even lower!
+
+How low? Well, to maintain a South-America-sized continent with 2.8 million urban and town dwells and a 5% or so urbanization rate, you have to have population density of just 7 people per square mile. For reference, that’s equivalent to somewhere between the Western Sahara and Botswana in terms of emptiness. We are talking vast swathes of ice, steppe, and desert here. In other words, this level of density does not fit the narrative.
+
+Systematically Estimating Westeros
+Playing With Parameters
+Let’s make this all a bit more mathematically formalized! To estimate the population of Westeros, there are basically two viable methods. First, estimate the urban population, then extrapolate based on a reasonable urbanization rate. Or, second, estimate the total land area, then extrapolate based on a reasonable population density. You cannot do both methods at the same time.
+
+Below I have 2 tables showing different estimates of Westerosi population given different parameters for the two different methods.
+
+
+
+Left source, right source.
+Well, then. That’s a lot of numbers. But we can narrow it down.
+
+Let’s go ahead and boot out all estimates with urbanization rates above 12% or below 4%, as well as densities below 15 people per square mile, or above 40. As we’ve seen, these are more plausible ranges. That drops us from 386 population estimates, to 266 estimates, and we know that these are all plausible estimates within their defined parameters.
+
+Now, we can test these estimates against each others’ parameters. So for each density-based estimate, I compute urbanization rates based on 3 different urban populations (800,000, 1.4 million, and 2.5 million). And for each urban-based estimate, I compute density based on 3 different land areas (1.6 million sq mi, 3.6 mil, and 6.8 mil).
+
+From here, we can start tossing out specifications that fail the cross-specification test. But, we have an issue. By offering 3 different density/urban specifications for each remaining specification, I greatly multiplied my number of Westeros population profile estimates, to 798 estimates. Whoops. But luckily, large numbers of these will be tossed out.
+
+So let’s apply our same filters: no urbanization outside of 4–12%, and no density outside of 15–40. This filter narrows us down to 170 different possible readings of Westerosi population. For those curious, the highest remaining population estimate is 75 million (medium-sized continent, low-ish density, low urbanization rate, large urban population), the lowest is 7 million (very small continent, very small urban population, high urbanization rate, low density).
+
+Now let’s make a more complex filter. Let’s go ahead and say that low density must not be paired with high urbanization. In other words, if the continent on the whole is sparsely populated, it should not have a population highly concentrated in large, complex cities. And vice versa of course. This process cuts us down to 136 estimates.
+
+Now, at this point, we’ve basically eliminated all fundamentally impossible or improbable outcomes. There is absolutely no circumstance under which a plausible population estimate of over 75 million or under 8.5 million can be advanced for the Seven Kingdoms. None whatsoever. It cannot be justified.
+
+But that’s still a big range. To narrow it, we have to just decide to rule out some things.
+
+Let’s start with land area. Let’s rule out any estimates larger than 4 million square miles, or smaller than 3 million squares miles.
+
+This yields a mere 18 remaining population estimates, with populations from 17.25 million to, still, 75 million. The average urban population estimate is about 2.2 million, the average urbanization rate is about 4.8%, the average density is about 13/sq mi, the average land area is about 3.6 million sq mi, and the average population is about 49 million. This all seems reasonable. Though, I should note, those densities still seem rather on the low side to me. I do also worry that the urban population seems a bit high
+
+Next, we can try locking in certain urban populations. Let’s assume that the total urban population of Westeros must be between 1 million and 2 million. That yields us 49 remaining estimates.
+
+This gives us an average urban population of about 1.5 million, with 5.8% urbanization and 16/sq mi density. This seems a bit more plausible to me given what we know about Westerosi and Medieval cities, and because I’m skeptical of all these low population densities. If you’re curious, the average land-area estimated is 2.2 million square miles, and the average total population is 27 million people.
+
+Understanding the World
+Our two best bases for estimating Westerosi population are land are and urban community size. Once we control for all the basic limits of Medieval demography and some baseline estimates of continent size and urban community size, we get population estimates for Westeros of between 25 and 50 million people.
+
+The total population of Westeros is probably between 25 and 50 million people.
+Getting more precise is very tough. For example, if we now constrain our two already constrained samples so that we force our bounded urban populations to be within our bounded land areas, we get just 3 remaining estimates. They place population at 17.25 million, 19.75 million, or 34.5 million. But that 34.5 million one is tough: it involves just 4% urbanization and 10/sq mi density.
+
+So what do I really think is the best estimate? Well, none, actually. There is no rational estimate for the population of Westeros.
+
+And that, dear reader, is my QED.
+
+We can see that Westeros is shoddily constructed from a demographically realistic perspective because there is no rational way to square even the most basic available data.
+Conclusion
+Westeros is an interesting setting for lots of reasons: characters, plot, writing, the fact that there’s a high-production-value HBO series, take your pick. There are lots of reasons for it to be popular or to capture interest. But what bothers me, as a really picky nerd, is when people think that it’s a particularly well-crafted setting. It is not. Westeros is shoddily assembled as far as political, cultural, or demographic realism goes. There is too much dynastic stability, too little cultural, linguistic, and ethnic diversity, the basic size of the world seems to change to fit the immediate exigencies of the plot, the cities and armies are implausibly large in many cases, and even careful analysis makes it hard to determine even a wide ballpark for population. None of these criticisms matter in a setting not trading on its claims to a kind of “realism.” But for a setting whose market value in some sense depends on its “realism,” yeah, it’s an issue.
+
+And, as a really nerdy teaser, yes, I have a project of my own in the works that inspired these calculations.
+
+Check out my Podcast about the history of American migration.
+
+If you like this post and want to see more research like it, I’d love for you to share it on Twitter or Facebook. Or, just as valuable for me, you can click the recommend button at the bottom of the page. Thanks!
+
+Follow me on Twitter to keep up with what I’m writing and reading. Follow my Medium Collection at In a State of Migration if you want updates when I write new posts. And if you’re writing about migration too, feel free to submit a post to the collection!
+
+I’m a graduate of the George Washington University’s Elliott School with an MA in International Trade and Investment Policy, and an economist at USDA’s Foreign Agricultural Service. I like to learn about migration, the cotton industry, airplanes, trade policy, space, Africa, and faith. I’m married to a kickass Kentucky woman named Ruth.
+
+My posts are not endorsed by and do not in any way represent the opinions of the United States government or any branch, department, agency, or division of it. My writing represents exclusively my own opinions. I did not receive any financial support or remuneration from any party for this research. More’s the pity.
+
+MigrationEconomicsGame of Thrones
+Go to the profile of Lyman Stone
+Lyman Stone
+Global cotton economist. Migration blogger. Proud Kentuckian. Advisor at Demographic Intelligence. Senior Contributor at The Federalist.
+
+In a State of Migration
+In a State of Migration
+People Move. I Ask Why.
+
+More from In a State of Migration
+The Great Baby Bust of 2017
+Go to the profile of Lyman Stone
+Lyman Stone
+More from In a State of Migration
+No Room at the Inn for Amazon
+Go to the profile of Lyman Stone
+Lyman Stone
+More from In a State of Migration
+How Long Until We’re All Amish?
+Go to the profile of Lyman Stone
+Lyman Stone
+Responses
+Conversation between Piotr Schmidtke and Lyman Stone.
+Go to the profile of Piotr Schmidtke
+Piotr Schmidtke
+Jun 30, 2016
+Hi!
+
+While I applaud the amount of work you’ve put into this article, another great testament to the power of nerdrage, I have to say I think you’re barking up the wrong tree.
+
+It’s not GRRM who uses the term „gritty realism”. It’s the readers. I do not recall him ever calling his world realistic in…
+
+Go to the profile of Lyman Stone
+Lyman Stone
+Jun 30, 2016
+Some thoughts and responses here:
+
+https://medium.com/migration-issues/its-okay-that-westeros-is-poorly-designed-f11e473b13ac#.pndcnj6gw
+
+Applause from Lyman Stone (author)
+Go to the profile of Patrick Ahles
+Patrick Ahles
+Jun 30, 2016
+TLDR;
+
+It is fantasy!
+
+Applause from Lyman Stone (author)
+Go to the profile of Joscha Bach
+Joscha Bach
+Jun 30, 2016
+It seems clear that Westeros is mostly the British Islands, with Dorne added to give a bit of Spain/North Africa, and Highgarden for a bit of France. King’s Landing is London, and many of the events are heavily inspired by the Rose Wars. The houses mirror Lancaster (Lannister), York (Stark), Plantagenet (Baratheon), Henry VI was Aerys Targaryen. The…
+
+Conversation between Cindy Wong and Lyman Stone.
+Go to the profile of Cindy Wong
+Cindy Wong
+Jun 30, 2016
+What about a Chinese model?
+
+I’m not a Chinese history scholar (or nerd), but I would like to point out the world of Westeros was somewhat comparable to Chinese world.
+
+Han, Tang, and Qing were the longest dynasties in Chinese history. The closest comparison to medival Europe would be Tang.
+
+Go to the profile of Lyman Stone
+Lyman Stone
+Jun 30, 2016
+Responded to in this follow-up: https://medium.com/migration-issues/its-okay-that-westeros-is-poorly-designed-f11e473b13ac#.pndcnj6gw
+
+Applause from Lyman Stone (author)
+Go to the profile of Michael O. Church
+Michael O. Church
+Jun 30, 2016
+To be fair to GRRM, I don’t believe that he claims his series to be “realistic”. The “gritty realism” is more of a sort of moral relativism. It’s not clear who the good and bad guys are. Is the series realistic? Hardly. Is it morally more realistic than “elves good, orcs bad”? Sure.
+
+Applause from Lyman Stone (author)
+Go to the profile of Meme Virus
+Meme Virus
+Jun 30, 2016
+Can I just cut to the chase and say that I love you ? This is just amazing. Reminds me of the story of MIT students walking around at yelling that the Ringworld is unstable and Larry Niven adding jets to accommodate this new fact :)
+Conversation between Ben Podgursky, Lyman Stone, and Sirous Martel.
+Go to the profile of Ben Podgursky
+Ben Podgursky
+Jun 30, 2016
+Ravens, given their super-pigeon abilities, could provide a structural difference in military mobilization rates from medieval European models; there was no equivalent way to call banners in a timely fashion.
+
+Likewise, near- instant communication, by historic standards, could provide a very homogenizing effect to dampen…
+
+Go to the profile of Lyman Stone
+Lyman Stone
+Jun 30, 2016
+Ravens do help organize a realm, that’s for sure, but I think we need to bracket that with an understanding that they ease flow of information, not of goods or manpower. Plus, they would almost certainly not homogenize language, as raven-born messages are likely elite-to-elite, impacting few people, and, crucially, written rather than spoken.
+
+Go to the profile of Sirous Martel
+Sirous Martel
+Jun 30, 2016
+There’s also the Maesters. Every lord of any consequence has one. They communicate in the Westerosi tongue, so we can’t compare them to priests who used a priestly language. At least not very well. More than ravens, they are heavily involved in the education of lordlings, along with septons.
+
+Applause from Lyman Stone (author)
+Go to the profile of Sam Gallagher
+Sam Gallagher
+Jul 1, 2016
+This pulls together some things that I’ve felt about a lot of fantasy novels. The world-construction piece of the story feels rather shoddy when looking at things from the perspective of a historian or, in your case, a demographer. Many writers with fewer readers and less writing experience have attempted to make worlds that end up feeling flat or…
+
+Applause from Lyman Stone (author)
+Go to the profile of Anton Stupnev
+Anton Stupnev
+Jul 1, 2016
+There was always one thing that bothered me when I looked the Westeros and Essos map — the geographical factor. I was always confused how “vertical” Westeros became united empire while “horizontal” Essos was still a bunch of city-states and some barbarian hoards.
+
+Applause from Lyman Stone (author)
+Go to the profile of Matthew Altman
+Matthew Altman
+Jun 30, 2016
+How much time did this guy waste on a fantasy land?
+
+Applause from Lyman Stone (author)
+Go to the profile of Aditya Pradana Mahardhika
+Aditya Pradana Mahardhika
+Jun 30, 2016
+I fucking hate you man, great read btw.
+
+Applause from Lyman Stone (author)
+Go to the profile of Will
+Will
+Jul 1, 2016
+I’m not going to pretend I’ve read this word for word because I lost interest at the table of urbanization rates where there’s no apparent reference to the population densities of pre-industrial, agrarian societies. We’re talking about a world where seasons are of uneven length of multiple years. (Just how did they arrive at the concept of a year to…
+
+Conversation between Thunder Levin, Lyman Stone, and Sirous Martel.
+Go to the profile of Thunder Levin
+Thunder Levin
+Jun 30, 2016
+This is pretty fascinating (and honestly, way too complex for me to really stick with). But it seems to me that basing your computations on anything factual from medieval Europe doesn’t take into account how a years-long growing/harvest season with only occasional winters might affect the ability of the land to support varying populations. It could…
+
+Go to the profile of Lyman Stone
+Lyman Stone
+Jun 30, 2016
+Granted. I actually initially included a whole section about the role of Westerosi winter, but dropped it, because the conclusion was basically that effects are probably small, highly unpredictable, and, crucially, if there IS any realistic climate effect, it is likely “human life could never have survived under these conditions”.
+
+Go to the profile of Sirous Martel
+Sirous Martel
+Jun 30, 2016
+I strongly disagree that the effects would be small. They would be incredibly massive. You have the reach, where the effects of winter are marginal, and you have the north, where winter is so debilitating that bands of men leave the north in anticipation of winter to make survival easier for those who remain (as well as stories of the elderly going…
+
+Go to the profile of Lyman Stone
+Lyman Stone
+Jun 30, 2016
+See the note on winter in the follow-up piece:
+https://medium.com/migration-issues/its-okay-that-westeros-is-poorly-designed-f11e473b13ac#.jjywk8h5m
+
+Go to the profile of Sirous Martel
+Sirous Martel
+Jul 1, 2016
+I saw that. I basically agree that it is unknowable.
+
+Conversation between David Stark and Lyman Stone.
+Go to the profile of David Stark
+David Stark
+Jun 29, 2016
+Nice analysis. And yeah, come to think of it, I always just unconsciously divided army numbers by 10 when reading ASoIaF.
+
+Go to the profile of Lyman Stone
+Lyman Stone
+Jun 30, 2016
+That’s a very reasonable approach!
+
+Applause from Lyman Stone (author)
+Go to the profile of Howard Brazee
+Howard Brazee
+Jun 30, 2016
+It’s always an irritant when a fantasy world has a stable medieval technology lasting thousands of years. Food is another issue — I want to see lots of farms, and the armies marching on gruel. Why doesn’t the TV show have dogs all over the place eating the vermin?
+
+In a State of Migration
+Never miss a story from In a State of Migration, when you sign up for Medium. Learn more
